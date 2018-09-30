@@ -1,0 +1,1856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="CURL" targetName="hostname" />
+      <config projectName="CURL" targetName="lib1550" />
+      <config projectName="CURL" targetName="lib1551" />
+      <config projectName="CURL" targetName="lib1552" />
+      <config projectName="CURL" targetName="unit1603" />
+      <config projectName="CURL" targetName="unit1601" />
+      <config projectName="CURL" targetName="unit1600" />
+      <config projectName="CURL" targetName="lib1557" />
+      <config projectName="CURL" targetName="lib1556" />
+      <config projectName="CURL" targetName="lib1555" />
+      <config projectName="CURL" targetName="lib1554" />
+      <config projectName="CURL" targetName="lib1553" />
+      <config projectName="CURL" targetName="lib505" />
+      <config projectName="CURL" targetName="lib504" />
+      <config projectName="CURL" targetName="lib503" />
+      <config projectName="CURL" targetName="lib502" />
+      <config projectName="CURL" targetName="lib501" />
+      <config projectName="CURL" targetName="lib500" />
+      <config projectName="CURL" targetName="NightlyUpdate" />
+      <config projectName="CURL" targetName="lib506" />
+      <config projectName="CURL" targetName="lib508" />
+      <config projectName="CURL" targetName="lib509" />
+      <config projectName="CURL" targetName="unit1300" />
+      <config projectName="CURL" targetName="getpart" />
+      <config projectName="CURL" targetName="ExperimentalTest" />
+      <config projectName="CURL" targetName="lib1540" />
+      <config projectName="CURL" targetName="Nightly" />
+      <config projectName="CURL" targetName="ExperimentalSubmit" />
+      <config projectName="CURL" targetName="lib514" />
+      <config projectName="CURL" targetName="lib516" />
+      <config projectName="CURL" targetName="Experimental" />
+      <config projectName="CURL" targetName="show" />
+      <config projectName="CURL" targetName="lib599" />
+      <config projectName="CURL" targetName="libcurl" />
+      <config projectName="CURL" targetName="lib597" />
+      <config projectName="CURL" targetName="lib644" />
+      <config projectName="CURL" targetName="ContinuousBuild" />
+      <config projectName="CURL" targetName="lib1538" />
+      <config projectName="CURL" targetName="lib590" />
+      <config projectName="CURL" targetName="lib1536" />
+      <config projectName="CURL" targetName="lib1535" />
+      <config projectName="CURL" targetName="lib1534" />
+      <config projectName="CURL" targetName="lib1533" />
+      <config projectName="CURL" targetName="lib1532" />
+      <config projectName="CURL" targetName="lib1531" />
+      <config projectName="CURL" targetName="ContinuousStart" />
+      <config projectName="CURL" targetName="NightlyStart" />
+      <config projectName="CURL" targetName="lib520" />
+      <config projectName="CURL" targetName="lib521" />
+      <config projectName="CURL" targetName="lib523" />
+      <config projectName="CURL" targetName="NightlyMemoryCheck" />
+      <config projectName="CURL" targetName="sockfilt" />
+      <config projectName="CURL" targetName="curl" />
+      <config projectName="CURL" targetName="chkhostname" />
+      <config projectName="CURL" targetName="ExperimentalBuild" />
+      <config projectName="CURL" targetName="lib589" />
+      <config projectName="CURL" targetName="lib587" />
+      <config projectName="CURL" targetName="lib586" />
+      <config projectName="CURL" targetName="lib585" />
+      <config projectName="CURL" targetName="ContinuousUpdate" />
+      <config projectName="CURL" targetName="lib583" />
+      <config projectName="CURL" targetName="lib582" />
+      <config projectName="CURL" targetName="lib1528" />
+      <config projectName="CURL" targetName="lib1527" />
+      <config projectName="CURL" targetName="lib1526" />
+      <config projectName="CURL" targetName="lib1525" />
+      <config projectName="CURL" targetName="libauthretry" />
+      <config projectName="CURL" targetName="lib1522" />
+      <config projectName="CURL" targetName="lib1521" />
+      <config projectName="CURL" targetName="lib1520" />
+      <config projectName="CURL" targetName="generate-curl.1" />
+      <config projectName="CURL" targetName="unit1398" />
+      <config projectName="CURL" targetName="lib579" />
+      <config projectName="CURL" targetName="lib578" />
+      <config projectName="CURL" targetName="lib576" />
+      <config projectName="CURL" targetName="lib575" />
+      <config projectName="CURL" targetName="lib574" />
+      <config projectName="CURL" targetName="ExperimentalMemCheck" />
+      <config projectName="CURL" targetName="lib572" />
+      <config projectName="CURL" targetName="lib571" />
+      <config projectName="CURL" targetName="lib1517" />
+      <config projectName="CURL" targetName="NightlyMemCheck" />
+      <config projectName="CURL" targetName="pdf" />
+      <config projectName="CURL" targetName="lib1513" />
+      <config projectName="CURL" targetName="lib1512" />
+      <config projectName="CURL" targetName="ExperimentalUpdate" />
+      <config projectName="CURL" targetName="lib1510" />
+      <config projectName="CURL" targetName="lib540" />
+      <config projectName="CURL" targetName="lib541" />
+      <config projectName="CURL" targetName="lib542" />
+      <config projectName="CURL" targetName="lib543" />
+      <config projectName="CURL" targetName="lib544" />
+      <config projectName="CURL" targetName="unit1330" />
+      <config projectName="CURL" targetName="ExperimentalCoverage" />
+      <config projectName="CURL" targetName="lib568" />
+      <config projectName="CURL" targetName="lib567" />
+      <config projectName="CURL" targetName="lib566" />
+      <config projectName="CURL" targetName="lib565" />
+      <config projectName="CURL" targetName="lib564" />
+      <config projectName="CURL" targetName="lib562" />
+      <config projectName="CURL" targetName="NightlyBuild" />
+      <config projectName="CURL" targetName="lib560" />
+      <config projectName="CURL" targetName="lib1506" />
+      <config projectName="CURL" targetName="lib1505" />
+      <config projectName="CURL" targetName="lib1504" />
+      <config projectName="CURL" targetName="lib1503" />
+      <config projectName="CURL" targetName="lib1502" />
+      <config projectName="CURL" targetName="lib1501" />
+      <config projectName="CURL" targetName="Continuous" />
+      <config projectName="CURL" targetName="lib1509" />
+      <config projectName="CURL" targetName="lib1500" />
+      <config projectName="CURL" targetName="ContinuousMemCheck" />
+      <config projectName="CURL" targetName="lib556" />
+      <config projectName="CURL" targetName="lib1507" />
+      <config projectName="CURL" targetName="lib1508" />
+      <config projectName="CURL" targetName="rtspd" />
+      <config projectName="CURL" targetName="lib507" />
+      <config projectName="CURL" targetName="lib559" />
+      <config projectName="CURL" targetName="lib558" />
+      <config projectName="CURL" targetName="lib557" />
+      <config projectName="CURL" targetName="fake_ntlm" />
+      <config projectName="CURL" targetName="lib555" />
+      <config projectName="CURL" targetName="lib554" />
+      <config projectName="CURL" targetName="lib553" />
+      <config projectName="CURL" targetName="lib552" />
+      <config projectName="CURL" targetName="ExperimentalConfigure" />
+      <config projectName="CURL" targetName="ContinuousCoverage" />
+      <config projectName="CURL" targetName="ContinuousTest" />
+      <config projectName="CURL" targetName="ExperimentalStart" />
+      <config projectName="CURL" targetName="lib643" />
+      <config projectName="CURL" targetName="lib1511" />
+      <config projectName="CURL" targetName="html" />
+      <config projectName="CURL" targetName="lib1514" />
+      <config projectName="CURL" targetName="lib1515" />
+      <config projectName="CURL" targetName="lib1156" />
+      <config projectName="CURL" targetName="lib549" />
+      <config projectName="CURL" targetName="lib548" />
+      <config projectName="CURL" targetName="lib547" />
+      <config projectName="CURL" targetName="lib545" />
+      <config projectName="CURL" targetName="lib655" />
+      <config projectName="CURL" targetName="lib654" />
+      <config projectName="CURL" targetName="lib653" />
+      <config projectName="CURL" targetName="lib652" />
+      <config projectName="CURL" targetName="lib651" />
+      <config projectName="CURL" targetName="lib650" />
+      <config projectName="CURL" targetName="libntlmconnect" />
+      <config projectName="CURL" targetName="unit1309" />
+      <config projectName="CURL" targetName="unit1308" />
+      <config projectName="CURL" targetName="unit1307" />
+      <config projectName="CURL" targetName="unit1305" />
+      <config projectName="CURL" targetName="unit1304" />
+      <config projectName="CURL" targetName="unit1303" />
+      <config projectName="CURL" targetName="unit1302" />
+      <config projectName="CURL" targetName="unit1301" />
+      <config projectName="CURL" targetName="NightlySubmit" />
+      <config projectName="CURL" targetName="lib1529" />
+      <config projectName="CURL" targetName="lib2033" />
+      <config projectName="CURL" targetName="lib539" />
+      <config projectName="CURL" targetName="opts-html" />
+      <config projectName="CURL" targetName="lib537" />
+      <config projectName="CURL" targetName="lib536" />
+      <config projectName="CURL" targetName="ContinuousConfigure" />
+      <config projectName="CURL" targetName="lib645" />
+      <config projectName="CURL" targetName="lib533" />
+      <config projectName="CURL" targetName="lib532" />
+      <config projectName="CURL" targetName="lib530" />
+      <config projectName="CURL" targetName="NightlyTest" />
+      <config projectName="CURL" targetName="ContinuousSubmit" />
+      <config projectName="CURL" targetName="lib518" />
+      <config projectName="CURL" targetName="lib1530" />
+      <config projectName="CURL" targetName="tftpd" />
+      <config projectName="CURL" targetName="lib1537" />
+      <config projectName="CURL" targetName="unit1620" />
+      <config projectName="CURL" targetName="NightlyCoverage" />
+      <config projectName="CURL" targetName="lib529" />
+      <config projectName="CURL" targetName="lib527" />
+      <config projectName="CURL" targetName="lib526" />
+      <config projectName="CURL" targetName="lib569" />
+      <config projectName="CURL" targetName="lib524" />
+      <config projectName="CURL" targetName="opts-pdf" />
+      <config projectName="CURL" targetName="chkdecimalpoint" />
+      <config projectName="CURL" targetName="unit1397" />
+      <config projectName="CURL" targetName="unit1396" />
+      <config projectName="CURL" targetName="unit1395" />
+      <config projectName="CURL" targetName="sws" />
+      <config projectName="CURL" targetName="lib570" />
+      <config projectName="CURL" targetName="NightlyConfigure" />
+      <config projectName="CURL" targetName="lib1900" />
+      <config projectName="CURL" targetName="lib573" />
+      <config projectName="CURL" targetName="lib591" />
+      <config projectName="CURL" targetName="lib519" />
+      <config projectName="CURL" targetName="lib598" />
+      <config projectName="CURL" targetName="lib517" />
+      <config projectName="CURL" targetName="resolve" />
+      <config projectName="CURL" targetName="lib515" />
+      <config projectName="CURL" targetName="uninstall" />
+      <config projectName="CURL" targetName="lib1560" />
+      <config projectName="CURL" targetName="lib512" />
+      <config projectName="CURL" targetName="lib511" />
+      <config projectName="CURL" targetName="lib510" />
+      <config projectName="CURL" targetName="lib525" />
+      <config projectName="CURL" targetName="lib513" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" GENERATION_OPTIONS="--debug-output -DCMAKE_BUILD_TYPE=Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="730896e8-71b1-40c6-a67f-ab732a980bb6" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="1869477849">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="c" value="5" />
+          <entry key="cmake" value="4" />
+          <entry key="h" value="4" />
+          <entry key="in" value="1" />
+          <entry key="symbols-in-versions" value="1" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="5" />
+          <entry key="ObjectiveC" value="9" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="h" value="2" />
+          <entry key="txt" value="379" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="379" />
+          <entry key="ObjectiveC" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/examples/multi-app.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3630">
+              <caret line="242" column="25" selection-start-line="242" selection-start-column="9" selection-end-line="242" selection-end-column="25" />
+              <folding>
+                <element signature="e#6285#6310#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/curl/multi.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="68" column="49" selection-start-line="68" selection-start-column="49" selection-end-line="68" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/examples/threaded-ssl.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="39" column="17" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/curl/curl.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8520">
+              <caret line="568" column="26" selection-start-line="568" selection-start-column="26" selection-end-line="568" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/setopt.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="39735">
+              <caret line="2649" column="7" selection-start-line="2649" selection-start-column="7" selection-end-line="2649" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/multi.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32400">
+              <caret line="2160" column="6" selection-start-line="2160" selection-start-column="6" selection-end-line="2160" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/urldata.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2295">
+              <caret line="153" column="8" selection-start-line="153" selection-start-column="8" selection-end-line="153" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/multihandle.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" column="71" selection-start-line="39" selection-start-column="71" selection-end-line="39" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/bin/cmake/mac/share/cmake-3.12/Modules/FindPackageHandleStandardArgs.cmake">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5655">
+              <caret line="377" selection-start-line="377" selection-end-line="377" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/bin/cmake/mac/share/cmake-3.12/Modules/FindOpenSSL.cmake">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1290">
+              <caret line="86" column="22" selection-start-line="86" selection-start-column="6" selection-end-line="86" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>APPLE</find>
+      <find>find_package</find>
+      <find>CMAKE_USE_OPENSSL</find>
+      <find>OPENSSL_INCLUDE_DIR</find>
+      <find>OPENSSL_ROOT_DIR</find>
+      <find>homebrew</find>
+      <find>curl_multi_add_handle</find>
+      <find>curl_easy_setopt</find>
+      <find>CURLMcode</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/lib/urldata.h" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="35" />
+    <option name="y" value="22" />
+    <option name="width" value="1645" />
+    <option name="height" value="1028" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CURL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="curl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CURL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="curl" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CURL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="curl" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CURL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="curl" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CURL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="curl" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+              <item name="curl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CURL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="curl" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Build All">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Continuous" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="Continuous" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousBuild" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="ContinuousBuild" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="ContinuousBuild">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousConfigure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="ContinuousConfigure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="ContinuousConfigure">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousCoverage" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="ContinuousCoverage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="ContinuousCoverage">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousMemCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="ContinuousMemCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="ContinuousMemCheck">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousStart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="ContinuousStart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="ContinuousStart">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousSubmit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="ContinuousSubmit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="ContinuousSubmit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="ContinuousTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="ContinuousTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousUpdate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="ContinuousUpdate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="ContinuousUpdate">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Experimental" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="Experimental" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalBuild" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="ExperimentalBuild" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="ExperimentalBuild">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalConfigure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="ExperimentalConfigure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="ExperimentalConfigure">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalCoverage" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="ExperimentalCoverage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="ExperimentalCoverage">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalMemCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="ExperimentalMemCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="ExperimentalMemCheck">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalStart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="ExperimentalStart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="ExperimentalStart">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalSubmit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="ExperimentalSubmit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="ExperimentalSubmit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="ExperimentalTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="ExperimentalTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalUpdate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="ExperimentalUpdate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="ExperimentalUpdate">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nightly" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="Nightly" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyBuild" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="NightlyBuild" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="NightlyBuild">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyConfigure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="NightlyConfigure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="NightlyConfigure">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyCoverage" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="NightlyCoverage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="NightlyCoverage">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyMemCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="NightlyMemCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="NightlyMemCheck">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyMemoryCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="NightlyMemoryCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="NightlyMemoryCheck">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyStart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="NightlyStart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="NightlyStart">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlySubmit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="NightlySubmit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="NightlySubmit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="NightlyTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="NightlyTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyUpdate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="NightlyUpdate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="NightlyUpdate">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chkdecimalpoint" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="chkdecimalpoint" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="chkdecimalpoint">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chkhostname" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="chkhostname" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="chkhostname">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="curl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="curl" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="curl">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fake_ntlm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="fake_ntlm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="fake_ntlm">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generate-curl.1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="generate-curl.1" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getpart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="getpart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="getpart">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hostname" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="hostname" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="html" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="html" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1156" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1156" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1156">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1500" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1500" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1500">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1501" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1501" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1501">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1502" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1502" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1502">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1503" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1503" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1503">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1504" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1504" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1504">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1505" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1505" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1505">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1506" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1506" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1506">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1507" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1507" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1507">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1508" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1508" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1508">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1509" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1509" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1509">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1510" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1510" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1510">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1511" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1511" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1511">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1512" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1512" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1512">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1513" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1513" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1513">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1514" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1514" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1514">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1515" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1515" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1515">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1517" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1517" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1517">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1520" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1520" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1520">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1521" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1521" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1521">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1522" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1522" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1522">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1525" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1525" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1525">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1526" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1526" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1526">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1527" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1527" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1527">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1528" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1528" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1528">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1529" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1529" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1529">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1530" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1530" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1530">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1531" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1531" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1531">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1532" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1532" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1532">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1533" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1533" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1533">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1534" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1534" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1534">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1535" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1535" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1535">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1536" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1536" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1536">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1537" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1537" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1537">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1538" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1538" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1538">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1540" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1540" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1540">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1550" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1550" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1550">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1551" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1551" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1551">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1552" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1552" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1552">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1553" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1553" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1553">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1554" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1554" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1554">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1555" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1555" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1555">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1556" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1556" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1556">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1557" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1557" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1557">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1560" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1560" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1560">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib1900" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib1900" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib1900">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib2033" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib2033" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib2033">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib500" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib500" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib500">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib501" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib501" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib501">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib502" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib502" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib502">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib503" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib503" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib503">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib504" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib504" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib504">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib505" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib505" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib505">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib506" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib506" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib506">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib507" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib507" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib507">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib508" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib508" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib508">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib509" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib509" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib509">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib510" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib510" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib510">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib511" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib511" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib511">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib512" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib512" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib512">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib513" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib513" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib513">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib514" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib514" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib514">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib515" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib515" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib515">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib516" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib516" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib516">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib517" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib517" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib517">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib518" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib518" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib518">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib519" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib519" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib519">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib520" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib520" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib520">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib521" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib521" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib521">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib523" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib523" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib523">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib524" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib524" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib524">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib525" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib525" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib525">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib526" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib526" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib526">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib527" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib527" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib527">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib529" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib529" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib529">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib530" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib530" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib530">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib532" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib532" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib532">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib533" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib533" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib533">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib536" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib536" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib536">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib537" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib537" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib537">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib539" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib539" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib539">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib540" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib540" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib540">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib541" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib541" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib541">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib542" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib542" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib542">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib543" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib543" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib543">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib544" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib544" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib544">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib545" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib545" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib545">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib547" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib547" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib547">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib548" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib548" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib548">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib549" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib549" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib549">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib552" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib552" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib552">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib553" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib553" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib553">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib554" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib554" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib554">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib555" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib555" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib555">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib556" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib556" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib556">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib557" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib557" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib557">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib558" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib558" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib558">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib559" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib559" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib559">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib560" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib560" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib560">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib562" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib562" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib562">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib564" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib564" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib564">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib565" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib565" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib565">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib566" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib566" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib566">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib567" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib567" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib567">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib568" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib568" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib568">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib569" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib569" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib569">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib570" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib570" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib570">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib571" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib571" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib571">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib572" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib572" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib572">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib573" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib573" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib573">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib574" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib574" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib574">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib575" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib575" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib575">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib576" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib576" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib576">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib578" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib578" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib578">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib579" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib579" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib579">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib582" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib582" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib582">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib583" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib583" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib583">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib585" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib585" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib585">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib586" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib586" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib586">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib587" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib587" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib587">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib589" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib589" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib589">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib590" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib590" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib590">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib591" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib591" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib591">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib597" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib597" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib597">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib598" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib598" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib598">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib599" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib599" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib599">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib643" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib643" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib643">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib644" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib644" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib644">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib645" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib645" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib645">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib650" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib650" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib650">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib651" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib651" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib651">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib652" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib652" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib652">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib653" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib653" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib653">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib654" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib654" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib654">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib655" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="lib655" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="lib655">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libauthretry" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="libauthretry" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="libauthretry">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libcurl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="libcurl" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libntlmconnect" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="libntlmconnect" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="libntlmconnect">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="opts-html" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="opts-html" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="opts-pdf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="opts-pdf" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pdf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="pdf" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="resolve" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="resolve" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="resolve">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rtspd" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="rtspd" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="rtspd">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="show" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="show" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sockfilt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="sockfilt" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="sockfilt">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sws" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="sws" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="sws">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tftpd" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="tftpd" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="tftpd">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="uninstall" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit1300" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="unit1300" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="unit1300">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit1301" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="unit1301" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="unit1301">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit1302" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="unit1302" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="unit1302">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit1303" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="unit1303" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="unit1303">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit1304" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="unit1304" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="unit1304">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit1305" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="unit1305" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="unit1305">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit1307" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="unit1307" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="unit1307">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit1308" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="unit1308" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="unit1308">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit1309" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="unit1309" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="unit1309">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit1330" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="unit1330" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="unit1330">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit1395" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="unit1395" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="unit1395">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit1396" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="unit1396" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="unit1396">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit1397" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="unit1397" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="unit1397">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit1398" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="unit1398" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="unit1398">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit1600" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="unit1600" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="unit1600">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit1601" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="unit1601" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="unit1601">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit1603" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="unit1603" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="unit1603">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit1620" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CURL" TARGET_NAME="unit1620" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CURL" RUN_TARGET_NAME="unit1620">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.Continuous" />
+      <item itemvalue="Application.ContinuousBuild" />
+      <item itemvalue="Application.ContinuousConfigure" />
+      <item itemvalue="Application.ContinuousCoverage" />
+      <item itemvalue="Application.ContinuousMemCheck" />
+      <item itemvalue="Application.ContinuousStart" />
+      <item itemvalue="Application.ContinuousSubmit" />
+      <item itemvalue="Application.ContinuousTest" />
+      <item itemvalue="Application.ContinuousUpdate" />
+      <item itemvalue="Application.Experimental" />
+      <item itemvalue="Application.ExperimentalBuild" />
+      <item itemvalue="Application.ExperimentalConfigure" />
+      <item itemvalue="Application.ExperimentalCoverage" />
+      <item itemvalue="Application.ExperimentalMemCheck" />
+      <item itemvalue="Application.ExperimentalStart" />
+      <item itemvalue="Application.ExperimentalSubmit" />
+      <item itemvalue="Application.ExperimentalTest" />
+      <item itemvalue="Application.ExperimentalUpdate" />
+      <item itemvalue="Application.Nightly" />
+      <item itemvalue="Application.NightlyBuild" />
+      <item itemvalue="Application.NightlyConfigure" />
+      <item itemvalue="Application.NightlyCoverage" />
+      <item itemvalue="Application.NightlyMemCheck" />
+      <item itemvalue="Application.NightlyMemoryCheck" />
+      <item itemvalue="Application.NightlyStart" />
+      <item itemvalue="Application.NightlySubmit" />
+      <item itemvalue="Application.NightlyTest" />
+      <item itemvalue="Application.NightlyUpdate" />
+      <item itemvalue="Application.uninstall" />
+      <item itemvalue="Application.generate-curl.1" />
+      <item itemvalue="Application.html" />
+      <item itemvalue="Application.pdf" />
+      <item itemvalue="Application.opts-html" />
+      <item itemvalue="Application.opts-pdf" />
+      <item itemvalue="Application.libcurl" />
+      <item itemvalue="Application.curl" />
+      <item itemvalue="Application.show" />
+      <item itemvalue="Application.chkdecimalpoint" />
+      <item itemvalue="Application.chkhostname" />
+      <item itemvalue="Application.hostname" />
+      <item itemvalue="Application.lib1156" />
+      <item itemvalue="Application.lib1500" />
+      <item itemvalue="Application.lib1501" />
+      <item itemvalue="Application.lib1502" />
+      <item itemvalue="Application.lib1503" />
+      <item itemvalue="Application.lib1504" />
+      <item itemvalue="Application.lib1505" />
+      <item itemvalue="Application.lib1506" />
+      <item itemvalue="Application.lib1507" />
+      <item itemvalue="Application.lib1508" />
+      <item itemvalue="Application.lib1509" />
+      <item itemvalue="Application.lib1510" />
+      <item itemvalue="Application.lib1511" />
+      <item itemvalue="Application.lib1512" />
+      <item itemvalue="Application.lib1513" />
+      <item itemvalue="Application.lib1514" />
+      <item itemvalue="Application.lib1515" />
+      <item itemvalue="Application.lib1517" />
+      <item itemvalue="Application.lib1520" />
+      <item itemvalue="Application.lib1521" />
+      <item itemvalue="Application.lib1522" />
+      <item itemvalue="Application.lib1525" />
+      <item itemvalue="Application.lib1526" />
+      <item itemvalue="Application.lib1527" />
+      <item itemvalue="Application.lib1528" />
+      <item itemvalue="Application.lib1529" />
+      <item itemvalue="Application.lib1530" />
+      <item itemvalue="Application.lib1531" />
+      <item itemvalue="Application.lib1532" />
+      <item itemvalue="Application.lib1533" />
+      <item itemvalue="Application.lib1534" />
+      <item itemvalue="Application.lib1535" />
+      <item itemvalue="Application.lib1536" />
+      <item itemvalue="Application.lib1537" />
+      <item itemvalue="Application.lib1538" />
+      <item itemvalue="Application.lib1540" />
+      <item itemvalue="Application.lib1550" />
+      <item itemvalue="Application.lib1551" />
+      <item itemvalue="Application.lib1552" />
+      <item itemvalue="Application.lib1553" />
+      <item itemvalue="Application.lib1554" />
+      <item itemvalue="Application.lib1555" />
+      <item itemvalue="Application.lib1556" />
+      <item itemvalue="Application.lib1557" />
+      <item itemvalue="Application.lib1560" />
+      <item itemvalue="Application.lib1900" />
+      <item itemvalue="Application.lib2033" />
+      <item itemvalue="Application.lib500" />
+      <item itemvalue="Application.lib501" />
+      <item itemvalue="Application.lib502" />
+      <item itemvalue="Application.lib503" />
+      <item itemvalue="Application.lib504" />
+      <item itemvalue="Application.lib505" />
+      <item itemvalue="Application.lib506" />
+      <item itemvalue="Application.lib507" />
+      <item itemvalue="Application.lib508" />
+      <item itemvalue="Application.lib509" />
+      <item itemvalue="Application.lib510" />
+      <item itemvalue="Application.lib511" />
+      <item itemvalue="Application.lib512" />
+      <item itemvalue="Application.lib513" />
+      <item itemvalue="Application.lib514" />
+      <item itemvalue="Application.lib515" />
+      <item itemvalue="Application.lib516" />
+      <item itemvalue="Application.lib517" />
+      <item itemvalue="Application.lib518" />
+      <item itemvalue="Application.lib519" />
+      <item itemvalue="Application.lib520" />
+      <item itemvalue="Application.lib521" />
+      <item itemvalue="Application.lib523" />
+      <item itemvalue="Application.lib524" />
+      <item itemvalue="Application.lib525" />
+      <item itemvalue="Application.lib526" />
+      <item itemvalue="Application.lib527" />
+      <item itemvalue="Application.lib529" />
+      <item itemvalue="Application.lib530" />
+      <item itemvalue="Application.lib532" />
+      <item itemvalue="Application.lib533" />
+      <item itemvalue="Application.lib536" />
+      <item itemvalue="Application.lib537" />
+      <item itemvalue="Application.lib539" />
+      <item itemvalue="Application.lib540" />
+      <item itemvalue="Application.lib541" />
+      <item itemvalue="Application.lib542" />
+      <item itemvalue="Application.lib543" />
+      <item itemvalue="Application.lib544" />
+      <item itemvalue="Application.lib545" />
+      <item itemvalue="Application.lib547" />
+      <item itemvalue="Application.lib548" />
+      <item itemvalue="Application.lib549" />
+      <item itemvalue="Application.lib552" />
+      <item itemvalue="Application.lib553" />
+      <item itemvalue="Application.lib554" />
+      <item itemvalue="Application.lib555" />
+      <item itemvalue="Application.lib556" />
+      <item itemvalue="Application.lib557" />
+      <item itemvalue="Application.lib558" />
+      <item itemvalue="Application.lib559" />
+      <item itemvalue="Application.lib560" />
+      <item itemvalue="Application.lib562" />
+      <item itemvalue="Application.lib564" />
+      <item itemvalue="Application.lib565" />
+      <item itemvalue="Application.lib566" />
+      <item itemvalue="Application.lib567" />
+      <item itemvalue="Application.lib568" />
+      <item itemvalue="Application.lib569" />
+      <item itemvalue="Application.lib570" />
+      <item itemvalue="Application.lib571" />
+      <item itemvalue="Application.lib572" />
+      <item itemvalue="Application.lib573" />
+      <item itemvalue="Application.lib574" />
+      <item itemvalue="Application.lib575" />
+      <item itemvalue="Application.lib576" />
+      <item itemvalue="Application.lib578" />
+      <item itemvalue="Application.lib579" />
+      <item itemvalue="Application.lib582" />
+      <item itemvalue="Application.lib583" />
+      <item itemvalue="Application.lib585" />
+      <item itemvalue="Application.lib586" />
+      <item itemvalue="Application.lib587" />
+      <item itemvalue="Application.lib589" />
+      <item itemvalue="Application.lib590" />
+      <item itemvalue="Application.lib591" />
+      <item itemvalue="Application.lib597" />
+      <item itemvalue="Application.lib598" />
+      <item itemvalue="Application.lib599" />
+      <item itemvalue="Application.lib643" />
+      <item itemvalue="Application.lib644" />
+      <item itemvalue="Application.lib645" />
+      <item itemvalue="Application.lib650" />
+      <item itemvalue="Application.lib651" />
+      <item itemvalue="Application.lib652" />
+      <item itemvalue="Application.lib653" />
+      <item itemvalue="Application.lib654" />
+      <item itemvalue="Application.lib655" />
+      <item itemvalue="Application.libauthretry" />
+      <item itemvalue="Application.libntlmconnect" />
+      <item itemvalue="Application.fake_ntlm" />
+      <item itemvalue="Application.getpart" />
+      <item itemvalue="Application.resolve" />
+      <item itemvalue="Application.rtspd" />
+      <item itemvalue="Application.sockfilt" />
+      <item itemvalue="Application.sws" />
+      <item itemvalue="Application.tftpd" />
+      <item itemvalue="Application.unit1300" />
+      <item itemvalue="Application.unit1301" />
+      <item itemvalue="Application.unit1302" />
+      <item itemvalue="Application.unit1303" />
+      <item itemvalue="Application.unit1304" />
+      <item itemvalue="Application.unit1305" />
+      <item itemvalue="Application.unit1307" />
+      <item itemvalue="Application.unit1308" />
+      <item itemvalue="Application.unit1309" />
+      <item itemvalue="Application.unit1330" />
+      <item itemvalue="Application.unit1395" />
+      <item itemvalue="Application.unit1396" />
+      <item itemvalue="Application.unit1397" />
+      <item itemvalue="Application.unit1398" />
+      <item itemvalue="Application.unit1600" />
+      <item itemvalue="Application.unit1601" />
+      <item itemvalue="Application.unit1603" />
+      <item itemvalue="Application.unit1620" />
+    </list>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="730896e8-71b1-40c6-a67f-ab732a980bb6" name="Default Changelist" comment="" />
+      <created>1538291756922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538291756922</updated>
+      <workItem from="1538291758796" duration="6747000" />
+      <workItem from="1538301449471" duration="2973000" />
+      <workItem from="1538326273861" duration="399000" />
+      <workItem from="1538329945325" duration="25000" />
+      <workItem from="1539161207269" duration="473000" />
+      <workItem from="1539915503489" duration="1436000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12053000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="35" y="22" width="1645" height="1028" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49807692" visible="true" weight="0.2651279" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="3" visible="true" weight="0.43044907" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info active="true" anchor="bottom" id="Find" order="5" visible="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Structure" order="4" sideWeight="0.5019231" side_tool="true" weight="0.25265127" />
+      <window_info anchor="right" id="make" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMake/Macros.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-431">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/libcurl/symbols-in-versions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="324" selection-start-line="324" selection-end-line="324" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/OS400/curl.inc.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="1733" column="8" selection-start-line="1733" selection-start-column="8" selection-end-line="1733" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5250">
+          <caret line="350" column="29" selection-start-line="350" selection-start-column="29" selection-end-line="350" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/examples/shared-connection-cache.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="10" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/examples/multi-app.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3630">
+          <caret line="242" column="25" selection-start-line="242" selection-start-column="9" selection-end-line="242" selection-end-column="25" />
+          <folding>
+            <element signature="e#6285#6310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/curl/curl.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8520">
+          <caret line="568" column="26" selection-start-line="568" selection-start-column="26" selection-end-line="568" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/setopt.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39735">
+          <caret line="2649" column="7" selection-start-line="2649" selection-start-column="7" selection-end-line="2649" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/multi.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32400">
+          <caret line="2160" column="6" selection-start-line="2160" selection-start-column="6" selection-end-line="2160" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/urldata.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="153" column="8" selection-start-line="153" selection-start-column="8" selection-end-line="153" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/multihandle.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="71" selection-start-line="39" selection-start-column="71" selection-end-line="39" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/bin/cmake/mac/share/cmake-3.12/Modules/FindPackageHandleStandardArgs.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5655">
+          <caret line="377" selection-start-line="377" selection-end-line="377" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/bin/cmake/mac/share/cmake-3.12/Modules/FindOpenSSL.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="22" selection-start-line="86" selection-start-column="6" selection-end-line="86" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/curl/multi.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="68" column="49" selection-start-line="68" selection-start-column="49" selection-end-line="68" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/examples/threaded-ssl.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

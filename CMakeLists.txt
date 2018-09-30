@@ -293,9 +293,9 @@ endif()
 # check SSL libraries
 # TODO support GNUTLS, NSS, POLARSSL, AXTLS, CYASSL
 
-if(APPLE)
+if (APPLE)
   option(CMAKE_USE_DARWINSSL "enable Apple OS native SSL/TLS" OFF)
-endif()
+endif ()
 if(WIN32)
   option(CMAKE_USE_WINSSL "enable Windows native SSL/TLS" OFF)
   cmake_dependent_option(CURL_WINDOWS_SSPI "Use windows libraries to allow NTLM authentication without openssl" ON
@@ -345,6 +345,13 @@ if(CMAKE_USE_DARWINSSL)
   set(USE_DARWINSSL ON)
   list(APPEND CURL_LIBS "${COREFOUNDATION_FRAMEWORK}" "${SECURITY_FRAMEWORK}")
 endif()
+
+if (APPLE AND ${CMAKE_USE_DARWINSSL} STREQUAL "OFF")
+    message(STATUS "Use OpenSSL provided by homebrew")
+#    include_directories(/usr/local/opt/openssl/include) # do not set these, they are what FindXX.cmake procudes
+#    link_directories(/usr/local/opt/openssl/lib)
+    set(OPENSSL_ROOT_DIR /usr/local/opt/openssl/)# Used in FindOpenSSL.cmake
+endif ()
 
 if(CMAKE_USE_OPENSSL)
   find_package(OpenSSL REQUIRED)

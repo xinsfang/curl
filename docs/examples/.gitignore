@@ -1,3 +1,5 @@
+*.dSYM
+
 10-at-a-time
 anyauthput
 certinfo

@@ -1,0 +1,117 @@
+# use --libcurl to generate a C program
+
+curl http://example.com --libcurl example.c
+
+# The index of examples
+
+https://curl.haxx.se/libcurl/c/example.html
+
+- 10-at-a-time	Source code using the multi interface to download many files, with a capped maximum amount of simultaneous transfers.
+- anyauthput	HTTP PUT upload with authentiction using "any" method. libcurl picks the one the server supports/wants.
+- asiohiper (C++)	demonstrate the use of multi socket interface with boost::asio. https://ec.haxx.se/libcurl-drive-multi-socket.html
+- cacertinmem	CA cert in memory with OpenSSL to get a HTTPS page.
+- certinfo	Extract lots of TLS certificate info.
+- chkspeed	Show transfer timing info after download completes.
+- cookie_interface	Import and export cookies with COOKIELIST.
+- crawler	Web crawler based on curl and libxml2 to stress-test curl with hundreds of concurrent connections to various servers.
+- curlgtk	use the libcurl in a gtk-threaded application
+- curlx	demonstrates use of SSL context callback, requires OpenSSL
+- debug	Show how CURLOPT_DEBUGFUNCTION can be used.
+- ephiperfifo	multi socket API usage with epoll and timerfd
+- evhiperfifo	multi socket interface together with libev
+- externalsocket	An example demonstrating how an application can pass in a custom socket to libcurl to use. This example also handles the connect itself.
+- fileupload	Upload to a file:// URL
+- fopen	implements an fopen() abstraction allowing reading from URLs
+- ftp-wildcard	FTP wildcard pattern matching
+- ftpget	Get a single file from an FTP server.
+- ftpgetinfo	Checks a single file's size and mtime from an FTP server.
+- ftpgetresp	Similar to ftpget.c but also stores the received response-lines in a separate file using our own callback!
+- ftpsget	Get a single file from an FTPS server.
+- ftpupload	Performs an FTP upload and renames the file just after a successful transfer.
+- ftpuploadfrommem	FTP upload a file from memory
+- ftpuploadresume	Upload to FTP, resuming failed transfers.
+- getinfo	Use getinfo to get content-type after completed transfer.
+- getinmemory	Shows how the write callback function can be used to download data into a chunk of memory instead of storing it in a file.
+- getredirect	Show how to extract Location: header and URL to redirect to.
+- ghiper	multi socket API usage together with with glib2
+- hiperfifo	multi socket API usage with libevent 2
+- href_extractor	Uses the "Streaming HTML parser" to extract the href pieces in a streaming manner from a downloaded HTML.
+- htmltidy	Download a document and use libtidy to parse the HTML.
+- htmltitle (C++)	Get a web page, extract the title with libxml.
+- http-post	simple HTTP POST using the easy interface
+- http2-download	Multiplexed HTTP/2 downloads over a single connection
+- http2-pushinmemory	HTTP/2 server push. Receive all data in memory.
+- http2-serverpush	HTTP/2 server push
+- http2-upload	Multiplexed HTTP/2 uploads over a single connection
+- httpcustomheader	HTTP request with custom modified, removed and added headers
+- httpput	HTTP PUT with easy interface and read callback
+- https	Simple HTTPS GET
+- imap-append	IMAP example showing how to send e-mails
+- imap-copy	IMAP example showing how to copy an e-mail from one folder to another
+- imap-create	IMAP example showing how to create a new folder
+- imap-delete	IMAP example showing how to delete a folder
+- imap-examine	IMAP example showing how to obtain information about a folder
+- imap-fetch	IMAP example showing how to retreieve e-mails
+- imap-list	IMAP example to list the folders within a mailbox
+- imap-lsub	IMAP example to list the subscribed folders
+- imap-multi	IMAP example using the multi interface
+- imap-noop	IMAP example showing how to perform a noop
+- imap-search	IMAP example showing how to search for new e-mails
+- imap-ssl	IMAP example using SSL
+- imap-store	IMAP example showing how to modify the properties of an e-mail
+- imap-tls	IMAP example using TLS
+- multi-app	A basic application source code using the multi interface doing two transfers in parallel.
+- multi-debugcallback	multi interface and debug callback
+- multi-double	multi interface code doing two parallel HTTP transfers
+- multi-formadd	using the multi interface to do a multipart formpost without blocking
+- multi-post	using the multi interface to do a multipart formpost without blocking
+- multi-single	using the multi interface to do a single download
+- multi-uv	multi_socket API using libuv
+- multithread	A multi-threaded example that uses pthreads to fetch several files at once
+- opensslthreadlock	one way to set the necessary OpenSSL locking callbacks if you want to do multi-threaded transfers with HTTPS/FTPS with libcurl built to use OpenSSL.
+- parseurl	Basic URL API use.
+- persistent	re-using handles to do HTTP persistent connections
+- pop3-dele	POP3 example showing how to delete e-mails
+- pop3-list	POP3 example to list the contents of a mailbox
+- pop3-multi	POP3 example using the multi interface
+- pop3-noop	POP3 example showing how to perform a noop
+- pop3-retr	POP3 example showing how to retrieve e-mails
+- pop3-ssl	POP3 example using SSL
+- pop3-stat	POP3 example showing how to obtain message statistics
+- pop3-tls	POP3 example using TLS
+- pop3-top	POP3 example showing how to retrieve only the headers of an e-mail
+- pop3-uidl	POP3 example to list the contents of a mailbox by unique ID
+- post-callback	Issue an HTTP POST and provide the data through the read callback.
+- postinmemory	Make a HTTP POST with data from memory and receive response in memory.
+- postit2	HTTP Multipart formpost with file upload and two additional parts.
+- postit2-formadd	HTTP Multipart formpost with file upload and two additional parts.
+- progressfunc	Use the progress callbacks, old and/or new one depending on available libcurl version.
+- resolve	Use CURLOPT_RESOLVE to feed custom IP addresses for given host name + port number combinations.
+- rtsp	A basic RTSP transfer
+- sampleconv	This is a simple example showing how a program on a non-ASCII platform would invoke callbacks to do its own codeset conversions instead of using the built-in iconv functions in libcurl.
+- sendrecv	An example of curl_easy_send() and curl_easy_recv() usage.
+- sepheaders	Simple HTTP GET that stores the headers in a separate file
+- sessioninfo	Uses the CURLINFO_TLS_SESSION data.
+- sftpget	Gets a file using an SFTP URL.
+- sftpuploadresume	Upload to SFTP, resuming a previously aborted transfer.
+- shared-connection-cache	Connection cache shared between easy handles with the share interface
+- simple	Very simple HTTP GET
+- simplepost	Very simple HTTP POST
+- simplessl	Shows HTTPS usage with client certs and optional ssl engine use.
+- smooth-gtk-thread	A multi threaded application that uses a progress bar to show status. It uses Gtk+ to make a smooth pulse.
+- smtp-expn	SMTP example showing how to expand an e-mail mailing list
+- smtp-mail	Send e-mail with SMTP
+- smtp-mime	SMTP example showing how to send mime e-mails
+- smtp-multi	SMTP example using the multi interface
+- smtp-ssl	SMTP example using SSL
+- smtp-tls	SMTP example using TLS
+- smtp-vrfy	SMTP example showing how to verify an e-mail address
+- sslbackend	Shows HTTPS usage with client certs and optional ssl engine use.
+- synctime	Set your system time from a remote HTTP server's Date: header.
+- threaded-shared-conn	Multi-threaded transfers sharing a single connection pool
+- threaded-ssl	Show the required mutex callback setups for GnuTLS and OpenSSL when using libcurl multi-threaded.
+- url2file	Download a given URL into a local file named page.out.
+- usercertinmem	Use an in-memory user certificate and RSA key and retrieve an https page.
+- xmlstream	Stream-parse a document using the streaming Expat parser.
+
+# https://curl.haxx.se/libcurl/c/options-in-examples.html
