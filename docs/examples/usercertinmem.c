@@ -194,7 +194,7 @@ int main(void)
 
   rv = curl_easy_setopt(ch, CURLOPT_SSL_VERIFYPEER, 0L);
   rv = curl_easy_setopt(ch, CURLOPT_SSL_VERIFYHOST, 0L);
-  rv = curl_easy_setopt(ch, CURLOPT_URL, "https://www.example.com/");
+  rv = curl_easy_setopt(ch, CURLOPT_URL, "https://www.ebay.com/");
   rv = curl_easy_setopt(ch, CURLOPT_SSLKEYTYPE, "PEM");
 
   /* first try: retrieve page without user certificate and key -> will fail

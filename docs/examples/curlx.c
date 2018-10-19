@@ -512,6 +512,8 @@ int main(int argc, char **argv)
     BIO_printf(p.errorbio, "%d %s=%d %d\n", __LINE__,
                "CURLOPT_SSL_CTX_FUNCTION", CURLOPT_SSL_CTX_FUNCTION, res);
 
+  fprintf(stderr, "%s 111\n", __func__);
+
   curl_easy_setopt(p.curl, CURLOPT_SSL_CTX_DATA, &p);
 
   {

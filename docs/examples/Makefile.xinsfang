@@ -1,6 +1,6 @@
 .PHONY: list clean
 list:
-	@$(MAKE) -pRrq -f $(lastword $(MAKEFILE_LIST)) : 2>/dev/null | awk -v RS= -F: '/^# File/,/^# Finished Make data base/ {if ($$1 !~ "^[#.]") {print $$1}}' | sort | egrep -v -e '^[^[:alnum:]]' -e '^$@$$' -e clean | xargs
+	@$(MAKE) -pRrq -f $(lastword $(MAKEFILE_LIST)) : 2>/dev/null | awk -v RS= -F: '/^# File/,/^# Finished Make data base/ {if ($$1 !~ "^[#.]") {print $$1}}' | sort | egrep -v -e '^[^[:alnum:]]' -e '^$@$$' -e clean
 
 clean:
 	-rm $$(make list)
@@ -15,56 +15,32 @@ CXXFLAGS+= -std=c++11
 
 LDFLAGS+= -lcurl
 
-ifeq ($(OS),Windows_NT)                                                            
-    CCFLAGS += -D WIN32                                                            
-    ifeq ($(PROCESSOR_ARCHITEW6432),AMD64)                                         
-        CCFLAGS += -D AMD64                                                        
-    else                                                                           
-        ifeq ($(PROCESSOR_ARCHITECTURE),AMD64)                                     
-            CCFLAGS += -D AMD64                                                    
-        endif                                                                      
-        ifeq ($(PROCESSOR_ARCHITECTURE),x86)                                       
-            CCFLAGS += -D IA32                                                     
-        endif                                                                      
-    endif                                                                          
-else                                                                               
-    UNAME_S := $(shell uname -s)                                                   
-    ifeq ($(UNAME_S),Linux)                                                        
-        CCFLAGS += -D LINUX                                                        
-    endif                                                                          
-    ifeq ($(UNAME_S),Darwin)                                                       
-        CCFLAGS += -D OSX                                                          
-        CFLAGS += -I/usr/local/opt/openssl/include                                 
-        CXXFLAGS += -I/usr/local/opt/openssl/include                               
-        LDFLAGS += -lc++                                                           
-        LDFLAGS += -L/usr/local/opt/openssl/lib                                    
-    endif                                                                          
-    UNAME_P := $(shell uname -p)                                                   
-    ifeq ($(UNAME_P),x86_64)                                                       
-        CCFLAGS += -D AMD64                                                        
-    endif                                                                          
-    ifneq ($(filter %86,$(UNAME_P)),)                                              
-        CCFLAGS += -D IA32                                                         
-    endif                                                                          
-    ifneq ($(filter arm%,$(UNAME_P)),)                                             
-        CCFLAGS += -D ARM                                                          
-    endif                                                                          
-endif
-
 # multi_perform GET + retry
 multi-app: multi-app.c
-	$(CC) $(CFLAGS) -omulti-app multi-app.c $(LDFLAGS) && ./multi-app 2>/dev/null
+	$(CC) $(CFLAGS) -o$@ $< $(LDFLAGS) && ./$@ 2>/dev/null
 
 # easy_perform GET + retry + setopt + getinfo
 easy-get: easy-get.cpp
-	$(CXX) -g -std=c++11 -oeasy-get easy-get.cpp -lcurl && ./easy-get
+	$(CXX) $(CXXFLAGS) -o$@ $< $(LDFLAGS) && ./$@ 2>/dev/null
 
 # multi socket: boost + libcurl 
 asiohiper: asiohiper.cpp
-	$(CXX) -oasiohiper asiohiper.cpp -lboost_system -lcurl && ./asiohiper
+	$(CXX) $(CXXFLAGS) -o$@ $< $(LDFLAGS) -lboost_system && ./$@ 2>/dev/null
 
 http2-pushinmemory: http2-pushinmemory.c
-	$(CC) -ohttp2-pushinmemory http2-pushinmemory.c -lcurl
+	$(CC) $(CFLAGS) -o$@ $< $(LDFLAGS) && ./$@ 2>/dev/null
 
-sslbackend: sslbackend.c
-	$(CC) $(CFLAGS) -osslbackend sslbackend.c $(LDFLAGS) && ./sslbackend
+simplessl: simplessl.c
+	$(CC) $(CFLAGS) -o$@ $< $(LDFLAGS) && ./$@ 2>/dev/null
+
+# second try
+usercertinmem: usercertinmem.c
+	$(CC) $(CFLAGS) -o$@ $< $(LDFLAGS) -lcrypto -lssl && ./$@
+
+cacertinmem: cacertinmem.c
+	$(CC) $(CFLAGS) -o$@ $< $(LDFLAGS) -lcrypto -lssl && ./$@
+
+curlx: curlx.c
+	$(CC) $(CFLAGS) -o$@ $< $(LDFLAGS) -lcrypto -lssl
+	key=test ./$@ -p12 psy.p12 -envpass key -verbose -accesstype AD_DVCS -mimetype application/dvcs -acceptmime application/dvcs -out response -connect https://www.ebay.com 
+
