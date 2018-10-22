@@ -1,3 +1,5 @@
+include ../../../../common.make
+
 .PHONY: list clean
 list:
 	@$(MAKE) -pRrq -f $(lastword $(MAKEFILE_LIST)) : 2>/dev/null | awk -v RS= -F: '/^# File/,/^# Finished Make data base/ {if ($$1 !~ "^[#.]") {print $$1}}' | sort | egrep -v -e '^[^[:alnum:]]' -e '^$@$$' -e clean
@@ -7,8 +9,6 @@ clean:
 	-rm -rf *.dSYM
 
 CFLAGS+= -g
-#CFLAGS+= -I/Users/xinsfang/demo/cpp/libcurl/curl/
-#CFLAGS+= -DBUILDING_LIBCURL
 
 CXXFLAGS+= -g
 CXXFLAGS+= -std=c++11
@@ -33,7 +33,7 @@ http2-pushinmemory: http2-pushinmemory.c
 simplessl: simplessl.c
 	$(CC) $(CFLAGS) -o$@ $< $(LDFLAGS) && ./$@ 2>/dev/null
 
-# second try
+# retry
 usercertinmem: usercertinmem.c
 	$(CC) $(CFLAGS) -o$@ $< $(LDFLAGS) -lcrypto -lssl && ./$@
 
@@ -44,3 +44,4 @@ curlx: curlx.c
 	$(CC) $(CFLAGS) -o$@ $< $(LDFLAGS) -lcrypto -lssl
 	key=test ./$@ -p12 psy.p12 -envpass key -verbose -accesstype AD_DVCS -mimetype application/dvcs -acceptmime application/dvcs -out response -connect https://www.ebay.com 
 
+opensslthreadlock: opensslthreadlock.c
