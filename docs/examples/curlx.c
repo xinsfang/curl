@@ -11,6 +11,8 @@
 */
 /* <DESC>
  * demonstrates use of SSL context callback, requires OpenSSL
+
+CURLOPT_SSL_CTX_FUNCTION - SSL context callback for OpenSSL, wolfSSL/CyaSSL or mbedTLS
  * </DESC>
  */
 
@@ -508,9 +510,11 @@ int main(int argc, char **argv)
 
   res = curl_easy_setopt(p.curl, CURLOPT_SSL_CTX_FUNCTION, sslctxfun);
 
-  if(res != CURLE_OK)
+  if(res != CURLE_OK){
     BIO_printf(p.errorbio, "%d %s=%d %d\n", __LINE__,
                "CURLOPT_SSL_CTX_FUNCTION", CURLOPT_SSL_CTX_FUNCTION, res);
+    abort();
+  }
 
   fprintf(stderr, "%s 111\n", __func__);
 
